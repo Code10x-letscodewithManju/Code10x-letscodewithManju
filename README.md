@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Code10x-letscodewithManju
-- 👀 I’m interested in ...Tech
+- 👀 I’m interested in Tech Ask me about java, c++, python
 - 🌱 I’m currently learning ...AI ML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...linkden Manjunath S
