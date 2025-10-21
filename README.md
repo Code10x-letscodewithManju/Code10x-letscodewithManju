@@ -21,6 +21,7 @@ I believe in combining **EDA, Statistics, and Model Optimization** to drive accu
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
@@ -30,7 +31,10 @@ I believe in combining **EDA, Statistics, and Model Optimization** to drive accu
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-6AB7E9?logo=python&logoColor=white)
+![Java Collections](https://img.shields.io/badge/Java_Collections-ED8B00?logo=openjdk&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-154734?logo=python&logoColor=white)
 ![Joblib](https://img.shields.io/badge/Joblib-3A3A3A?logo=python&logoColor=white)
@@ -62,6 +66,16 @@ I believe in combining **EDA, Statistics, and Model Optimization** to drive accu
 
 ---
 
+### 🧩 Core CS & Problem-Solving Skills
+
+- 📚 **Data Structures** — Arrays, Strings, Linked Lists, Stacks, Queues, Trees, Graphs, Heaps, HashMaps  
+- ⚙️ **Algorithms** — Sorting, Searching, Recursion, Greedy, Divide & Conquer, Dynamic Programming,  
+- 🧠 **Object-Oriented Programming (OOP)** — Encapsulation, Inheritance, Polymorphism, Abstraction  
+- 🧮 **Complexity Analysis** — Time & Space Complexity, Big-O Notation, Optimization Techniques  
+- 🧰 **Coding Platforms** — LeetCode, HackerRank, GeeksforGeeks  
+
+---
+
 ### 🚀 Featured Projects
 
 **🟢 EcoBot – AQI-Based Navigation System**  
@@ -75,7 +89,7 @@ Deployed via **Flask** with **Google Calendar** & **OpenWeather APIs** for conte
 🔗 [GitHub Repo](https://github.com/Code10x-letscodewithManju)
 
 **🟣 VAKIL (Work in Progress)**  
-LLM + RAG + GNN powered legal assistant simplifying Indian law in multilingual formats.  
+Virtual Assistant For Knowledge In Indian Law - An LLM + RAG + GNN powered legal assistant simplifying Indian law and Making Legal Knowledge Accessible to All.  
 
 ---
 
