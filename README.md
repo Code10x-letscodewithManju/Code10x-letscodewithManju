@@ -1,15 +1,21 @@
 # 👋 Hi, I'm Manjunath S  
 
-> **Aspiring Data Scientist | Machine Learning Engineer | AI & Data Enthusiast | Data-Driven Problem Solver | Building Smarter Systems with AI**
+> ### 🚀 **AI & Data Science Aspirant | Machine Learning Engineer | LLMs • RAG • Agentic AI • MLOps | Data-Driven Problem Solver**
+### **Building Real-World AI Systems that Solve Practical Problems**
 
 ---
 
 ### 🧠 About Me
-I’m a **Computer Science & Engineering** student at *Sir M Visvesvaraya Institute of Technology* (CGPA 9.1/10), driven by curiosity and innovation.  
-I love transforming data into meaningful insights and developing intelligent systems using **AI and Machine Learning**.  
-I’m currently exploring **Agentic AI**, **Fine-Tuning LLMs**, **AI Agents**, **LangChain**, and **LangGraph** to bridge research with real-world applications.  
-My focus lies in **Data Science, Machine Learning, NLP, Neural Networks, LLMs, RAG (Retrieval-Augmented Generation), and Fine-Tuning**, leveraging data to create impactful real-world solutions.  
-I believe in combining **EDA, Statistics, and Model Optimization** to drive accuracy, explainability, and performance in AI systems.  
+
+I’m a **Computer Science & Engineering student at Sir M Visvesvaraya Institute of Technology (CGPA: 9.1/10)** with a strong interest in **Artificial Intelligence, Machine Learning, and Generative AI.**
+
+I enjoy building practical AI systems that go beyond theory — from **LLM fine-tuning and RAG pipelines to AI agents and deployed ML applications.** My focus is on turning data and models into solutions that work in real-world scenarios.
+
+Currently, I’m deepening my expertise in **AI deployment, MLOps fundamentals, Agentic AI, and LLM-based systems** using tools like **MLflow, DVC pipeline, KubeFlow, Airflow, CI/CD, LangChain, LangGraph, LangSmith and CrewAI.**
+
+My core interests include **Data Science, Machine Learning, NLP, Neural Networks, LLMs, and Retrieval-Augmented Generation (RAG).** I rely on strong foundations in **EDA, Mathematics statistics, and model optimization** to build AI systems that are accurate, reliable, and interpretable.
+
+I believe in continuous learning and hands-on experimentation as the best path to mastering AI.
 
 ---
 
@@ -39,30 +45,42 @@ I believe in combining **EDA, Statistics, and Model Optimization** to drive accu
 ![NLTK](https://img.shields.io/badge/NLTK-154734?logo=python&logoColor=white)
 ![Joblib](https://img.shields.io/badge/Joblib-3A3A3A?logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1A1A1A?logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1A1A1A?logo=chainlink&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-4B0082?logo=langchain&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?logo=ai&logoColor=white)
 
 **Developer Tools**  
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellij-idea&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)
+![RunPod](https://img.shields.io/badge/RunPod-000000?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAB&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM-FF6F00?style=flat&logo=python&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?logo=llama&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?logo=neo4j&logoColor=white)
 
 ---
 
 ### 🤖 AI & Data Expertise
 
-- 🧩 **RAG (Retrieval-Augmented Generation)** — Integrating LLMs with vector databases for context-enriched responses  
-- 🧠 **LLMs (Large Language Models)** — Understanding and fine-tuning models for domain-specific applications  
-- 💬 **NLP & Text Processing** — Tokenization, stemming, stop-word removal, and text classification  
-- 🔍 **Fine-Tuning & Model Optimization** — Adapting pre-trained models using domain-specific datasets  
-- 📊 **EDA & Feature Engineering** — Extracting insights through visualization, outlier detection, and correlation analysis  
-- 📈 **Statistical Analysis** — Applying probability, distributions, and hypothesis testing for model validation  
-- 🧮 **Machine Learning** — Regression, Classification, Clustering, and Model Evaluation  
-- 🧰 **ML Ops & Pipelines** — Using Joblib for model serialization and Flask for backend integration  
+- 🧩 **Retrieval-Augmented Generation (RAG)** — Designing RAG pipelines with embeddings and FAISS to enable context-aware LLM responses  
+- 🧠 **Large Language Models (LLMs)** — Fine-tuning and applying LLMs for domain-specific tasks using LoRA/QLoRA and Hugging Face  
+- 🤖 **Agentic AI Systems** — Building AI agents using LangChain, LangGraph, and CrewAI for multi-step reasoning and task automation  
+- 💬 **NLP & Text Processing** — Tokenization, lemmatization, TF-IDF, N-grams, and NER for extracting insights from text data  
+- 🔍 **Model Fine-Tuning & Optimization** — Adapting pre-trained models, hyperparameter tuning, and evaluation for performance improvement  
+- 📊 **EDA & Feature Engineering** — Data exploration, visualization, outlier handling, and feature creation for robust modeling  
+- 📈 **Statistical Analysis** — Probability, distributions, and hypothesis testing for data validation and interpretation  
+- 🧮 **Machine Learning** — Regression, classification, clustering, and model evaluation across real-world datasets  
+- 🧰 **AI Deployment & MLOps Basics** — Model serialization, API integration, and deploying ML/LLM apps using Flask, Streamlit, and cloud platforms  
 
 ---
 
@@ -78,22 +96,55 @@ I believe in combining **EDA, Statistics, and Model Optimization** to drive accu
 
 ### 🚀 Featured Projects
 
-**🟢 EcoBot – AQI-Based Navigation System**  
-AI-powered assistant recommending the least polluted route using real-time AQI data.  
-Integrates **Google Maps API**, **Flask**, and **LLMs** to suggest optimal transport modes and eco-rewards.  
-🔗 [GitHub Repo](https://github.com/Code10x-letscodewithManju)
+## 🟣 VAKIL — Legal AI Assistant  
+**LLM + RAG + GNN powered Legal AI**
 
-**🟠 Ola Bike Ride Demand Forecasting**  
-Regression-based ML model (LightGBM) achieving 93%+ accuracy for ride demand prediction.  
-Deployed via **Flask** with **Google Calendar** & **OpenWeather APIs** for context-aware forecasts.  
-🔗 [GitHub Repo](https://github.com/Code10x-letscodewithManju)
+✔ Fine-tuned Phi-3 Mini (3.8B) using LoRA on a **76K legal dataset**  
+✔ RAG pipeline with FAISS semantic retrieval  
+✔ Neo4j knowledge graph + GNN for case relationships  
+✔ vLLM serverless deployment with APIs  
+✔ Hugging Face model hosting  
 
-**🟣 VAKIL (Work in Progress)**  
-Virtual Assistant For Knowledge In Indian Law - An LLM + RAG + GNN powered legal assistant simplifying Indian law and Making Legal Knowledge Accessible to All.  
+---
+
+## 🟢 Resume Screening AI Agent  
+**LangChain + LangGraph Agent System**
+
+✔ Automated JD parsing & resume ranking  
+✔ Multi-factor semantic scoring  
+✔ Streamlit dashboard with fairness checks  
+✔ Cloud deployment for real-time use  
+
+---
+
+## 🟢 EcoBot – AQI-Based Navigation System
+
+✔ Built a chat-based AI assistant that recommends **low-pollution travel routes** using real-time AQI data  
+✔ Integrated **Google Maps API, AQI APIs, and Flask backend** for dynamic route analysis  
+✔ Provided **transport suggestions and health advisories** based on air quality and route conditions  
+
+
+---
+
+## 🟠 Ola Bike Ride Demand Forecasting
+
+✔ Developed a **LightGBM regression model** achieving **93%+ prediction accuracy**  
+✔ Incorporated **weather and calendar-based features** for context-aware demand forecasting  
+✔ Deployed as a **Flask web application** with real-time prediction capability  
+
+
+---
+
+## 🔵 Bank Loan Default Risk Analysis
+
+✔ Performed **data cleaning, preprocessing, and imputation** on loan datasets  
+✔ Conducted **EDA and visualization** to analyze borrower behavior patterns  
+✔ Identified key factors influencing loan defaults to support **risk assessment decisions**  
 
 ---
 
 ### 🏆 Achievements & Certifications
+- 🥇 **5-Day AI Agents Intensive Course** – Kaggle & Google
 - 🥇 **5-Day Gen AI Intensive Course** – Kaggle & Google  
 - 🎓 **Artificial Intelligence Intern** – Skill Intern Pvt Ltd  
 - 💬 **DSA Mentor – CSOC 2024**, TechHub Community  
@@ -118,7 +169,9 @@ Virtual Assistant For Knowledge In Indian Law - An LLM + RAG + GNN powered legal
 
 📧 **Email:** [manjusuresh197490@gmail.com](mailto:manjusuresh197490@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/manjunath-suresh-82a41b261](https://linkedin.com/in/manjunath-suresh-82a41b261)  
-💻 **GitHub:** [github.com/Code10x-letscodewithManju](https://github.com/Code10x-letscodewithManju)
+💻 **GitHub:** [github.com/Code10x-letscodewithManju](https://github.com/Code10x-letscodewithManju)  
+🤗 **Hugging Face:** [huggingface.co/ManjunathCode10x](https://huggingface.co/ManjunathCode10x)  
+📊 **Kaggle:** [kaggle.com/manjunathsuresh2003](https://kaggle.com/manjunathsuresh2003)  
 
 ---
 
