@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Manjunath S  
 
-> ### 🚀 **AI & Data Science Aspirant | Machine Learning Engineer | LLMs • RAG • Agentic AI • MLOps | Data-Driven Problem Solver**
-### **Building Real-World AI Systems that Solve Practical Problems**
+> ### 🚀 **AI & Data Science Aspirant | Machine Learning Engineer | LLMs • RAG • Agentic AI • MLOps | Data-Driven Problem Solver | Building Real-World AI Systems that Solve Practical Problems**
 
 ---
 
@@ -155,13 +154,18 @@ I believe in continuous learning and hands-on experimentation as the best path t
 ### 📊 GitHub Stats & Activity  
 
 <p align="center">
+  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Code10x-letscodewithManju&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Code10x-letscodewithManju&theme=github-dark-blue&hide_border=true" width="48%" />
+  
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=Code10x-letscodewithManju&theme=github-dark-blue&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code10x-letscodewithManju&layout=compact&theme=github_dark&hide_border=true" width="45%" />
 </p>
+
 
 ---
 
